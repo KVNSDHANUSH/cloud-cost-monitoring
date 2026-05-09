@@ -253,16 +253,3 @@ This is an internship project demonstrating full-stack development skills. The c
 - Database normalization
 - API design standards
 
-## License
-
-This project is created for educational and internship purposes. Please refer to your organization's licensing policies.
-
-## Contact
-
-For questions or support regarding this project, please contact the development team or your internship supervisor.
-
----
-
-**Project Status**: ✅ Complete and Functional  
-**Last Updated**: January 2024  
-**Version**: 1.0.0
